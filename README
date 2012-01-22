@@ -1,0 +1,18 @@
+Sith.io
+
+# Technical stuff from Siths
+
+## Installation
+
+Run :
+    gem install bundler
+    bundle install --vendor/bundle
+
+## Write !
+
+Create a sample layout, and then a blog post that extends it.
+
+Finally, run :
+    bin/jekyll --server
+
+Browse at http://localhost:4000/
