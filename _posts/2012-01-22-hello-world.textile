@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hello world !
+author: dguyon
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 Jan 2012 - Paris
+
+Hello world from Sith member ! @dguyon
